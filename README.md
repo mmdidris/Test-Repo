@@ -1,9 +1,3 @@
-# Test-Repo
-Test-Repo
-
-
-Additional Information
-
 graph LR
     A[Clone Repo] --> B[Write Code]
     B --> C[Local Test]
